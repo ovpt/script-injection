@@ -1,2 +1,1 @@
-var str = [console.log('injection')];
-str.toLowerCase();
+[console.log('injection')].toLowerCase();
